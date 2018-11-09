@@ -2852,167 +2852,169 @@ input, select, textarea {
 						}
 
 					.panel > .inner.columns.divided > :first-child {
-						margin-top: 0;
+						margin-left: -41%;
+						padding-left: 0%;
+						padding-right: 4%
 					}
 
 			.panel .span-0-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-0-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-0-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-1 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-1-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-1-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-1-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-2 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-2-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-2-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-2-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-3 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-3-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-3-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-3-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-4 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-4-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-4-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-4-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-5-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-5-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-5-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-6 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-6-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-6-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-6-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-7 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-7-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-7-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-7-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-8 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-8-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-8-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-8-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-9 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-9-25 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-9-5 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-9-75 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel .span-10 {
-				width: 100%;
+				width: 60%;
 			}
 
 			.panel.small, .panel.medium, .panel.large {
@@ -3342,7 +3344,9 @@ input, select, textarea {
 			-webkit-flex-basis: auto;
 			-ms-flex-basis: auto;
 			flex-basis: auto;
-			height: 18rem;
+			height: 28rem;
+			left: -1rem;
+			width: 65%;
 		}
 
 		.panel.banner.left {
